@@ -1548,19 +1548,43 @@ body {
     padding-right: 4rem;
   }
 }
-.cid-qRxMawOqMh {
+.cid-qRARqAeQJ2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/simulation-1-739x351.jpg");
+  background-color: #efefef;
+}
+.cid-qRARqAeQJ2 .card-img {
+  background-color: #fff;
+}
+.cid-qRARqAeQJ2 .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qRARqAeQJ2 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qRARqAeQJ2 p {
+  text-align: left;
+}
+.cid-qRARqAeQJ2 .mbr-text {
+  color: #767676;
+}
+.cid-qRARqAeQJ2 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qRARqAeQJ2 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
 @media (min-width: 992px) {
-  .cid-qRxMawOqMh .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qRxMawOqMh .mbr-figure {
-    padding-top: 3rem;
+  .cid-qRARqAeQJ2 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
   }
 }
 .cid-qRxP0ljqwD {
@@ -1587,6 +1611,24 @@ body {
     padding-right: 4rem;
   }
 }
+.cid-qRBNFfJMKb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qRBNFfJMKb .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qRBNFfJMKb .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-qRBNFfJMKb .mbr-text {
+  color: #767676;
+}
 .cid-qRy8t96jtg {
   padding-top: 90px;
   padding-bottom: 105px;
@@ -1599,6 +1641,21 @@ body {
 }
 @media (max-width: 991px) {
   .cid-qRy8t96jtg .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-qRxMawOqMh {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/simulation-1-739x351.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qRxMawOqMh .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qRxMawOqMh .mbr-figure {
     padding-top: 3rem;
   }
 }
