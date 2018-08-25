@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ARIS Customer Site",
-    "currentPage": "page2.html",
+    "currentPage": "ThankYou.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2197,7 +2197,7 @@
         }
       ]
     },
-    "TankYou.html": {
+    "ThankYou.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "ThankYou",
