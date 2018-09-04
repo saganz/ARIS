@@ -329,10 +329,10 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             "H2": {
-              "color": "#efefef",
+              "color": "#232323",
               "text-align": "left"
             }
           },
@@ -354,25 +354,25 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/banner-product-release-2018-1580-by-445-1580x445.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2018productrelease-970x300.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
-                "overlay": false,
+                "title": "2018 Product Release",
+                "overlay": true,
                 "contentAlign": "left",
-                "text": "<br><br><br><br><br><br><br><br><br>",
+                "text": "2.5 days of innovation and inpriration",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://www.softwareag.com/corporate/company/events/product_release_virtual_conference/default.html?utm_source=aris_community&amp;utm_medium=blog&amp;utm_campaign=2018productrelease\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>REGISTER NOW</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/amazon-echo-india-no-text-1580-by-445-1580x445.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
